@@ -1,3 +1,10 @@
+# Custom
+results/
+test/
+.idea/
+*.pdf
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
