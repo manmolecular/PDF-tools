@@ -1,5 +1,5 @@
-# PDF-split
-Saves PDF pages as separated files, one file per page
+# PDF-tools
+PDF tools and helpers
 
 ## Install
 ```bash
@@ -7,10 +7,15 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
+### Split
 ```bash
-python3 pdf.py example.pdf
+python3 pdf_split.py example.pdf
 ```
 or
 ```bash
-python3 pdf.py example.pdf output_directory
+python3 pdf_split.py example.pdf output_directory
+```
+### Image
+```
+python3 pdf_image.py
 ```

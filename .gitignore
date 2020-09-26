@@ -1,4 +1,7 @@
 # Custom
+.DS_Store
+input/
+output/
 results/
 test/
 .idea/
